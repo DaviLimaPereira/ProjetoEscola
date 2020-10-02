@@ -22,10 +22,13 @@
                         <a class="nav-link" href="#">Home <span class="sr-only">(atual)</span></a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                        <a class="nav-link" href="#">Alunos</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Desativado</a>
+                        <a class="nav-link" href="#">Turmas</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#">Professaoras</a>
                         </li>
                     </ul>
                     <form class="form-inline mt-2 mt-md-0">
