@@ -22,13 +22,13 @@
                         <a class="nav-link" href="#">Home <span class="sr-only">(atual)</span></a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Alunos</a>
+                        <a class="nav-link" href="alunos">Alunos</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Turmas</a>
+                        <a class="nav-link" href="atividades">Atividades</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Professaoras</a>
+                        <a class="nav-link" href="secretaria">Secretaria</a>
                         </li>
                     </ul>
                     <form class="form-inline mt-2 mt-md-0">
