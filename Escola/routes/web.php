@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/alunos', function () {
-    return view('alunos');
+Route::get('/aluno', function () {
+    return view('aluno');
 });
 Route::get('/turmas', function () {
     return view('turmas');
