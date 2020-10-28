@@ -26,3 +26,7 @@ Route::get('/turmas', function () {
 Route::get('/prof', function () {
     return view('professoras');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
